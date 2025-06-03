@@ -16,13 +16,13 @@
     "simple-git": "^3.25.0",
     "openai": "^4.57.0",
     "sqlite3": "^5.1.7",
-    "express": "^4.19.2",
+    "express": "^5.1.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5"
   },
   "devDependencies": {
     "@types/node": "^22.5.0",
-    "@types/express": "^4.17.21",
+    "@types/express": "^5.0.2",
     "@types/cors": "^2.8.17",
     "@types/sqlite3": "^3.1.11",
     "typescript": "^5.5.4",
